@@ -4,9 +4,9 @@
 
 /**
  * main - Entry point
- * 
+ *
  * Description: 'type of integer in a random numberd'
- * 
+ *
  * Return: Always 0 (Success)
  */
 
