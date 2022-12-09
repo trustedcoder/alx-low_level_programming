@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* type of integer in a random numberd */ 
+/* 
+*type of integer in a random numberd 
+*/ 
 int main()
 {
 	int n;
