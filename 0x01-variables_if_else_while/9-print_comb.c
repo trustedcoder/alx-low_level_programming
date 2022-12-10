@@ -22,7 +22,6 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 			putchar('0' + j);
-			putchar('\n');
 		}
 	}
 	return (0);
