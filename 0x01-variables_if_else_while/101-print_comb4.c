@@ -26,10 +26,13 @@ int main(void)
 				{
 					continue;
 				}
-				putchar('0' + i);
-				putchar('0' + j);
-				putchar('0' + k);
-				putchar(',');
+				if (i != 8)
+				{
+					putchar('0' + i);
+					putchar('0' + j);
+					putchar('0' + k);
+					putchar(',');
+				}
 			}
 		}
 	}
