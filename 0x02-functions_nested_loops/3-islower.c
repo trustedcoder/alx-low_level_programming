@@ -2,7 +2,10 @@
 
 /**
  * _islower
- * Description: 'type of integer in a random numberd'
+ *
+ * Description: 'c type of integer in a random numberd'
+ * 
+ * Return: Always 0 (Success)
  */
 
 int _islower(int c)
