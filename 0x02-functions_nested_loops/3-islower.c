@@ -2,6 +2,7 @@
 
 /**
  * _islower
+ * Description: 'type of integer in a random numberd'
  */
 
 int _islower(int c)
