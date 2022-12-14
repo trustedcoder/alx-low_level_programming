@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * print_alphabet - Entry point
  *
  * Description: 'type of integer in a random numberd'
  *
